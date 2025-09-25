@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  background-image: url('../public/watch.png');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100%;
 }
 
 .App-logo {
