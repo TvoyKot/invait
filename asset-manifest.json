@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/invait/static/css/main.7a7908b7.css",
-    "main.js": "/invait/static/js/main.8f688c38.js",
-    "static/media/watch.png": "/invait/static/media/watch.71e41b42d3cbd446f5c1.png",
-    "index.html": "/invait/index.html",
-    "main.7a7908b7.css.map": "/invait/static/css/main.7a7908b7.css.map",
-    "main.8f688c38.js.map": "/invait/static/js/main.8f688c38.js.map"
+    "main.css": "/tvoykot.github.io/invait/static/css/main.bc09e78b.css",
+    "main.js": "/tvoykot.github.io/invait/static/js/main.8f688c38.js",
+    "static/media/watch.png": "/tvoykot.github.io/invait/static/media/watch.71e41b42d3cbd446f5c1.png",
+    "index.html": "/tvoykot.github.io/invait/index.html",
+    "main.bc09e78b.css.map": "/tvoykot.github.io/invait/static/css/main.bc09e78b.css.map",
+    "main.8f688c38.js.map": "/tvoykot.github.io/invait/static/js/main.8f688c38.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a7908b7.css",
+    "static/css/main.bc09e78b.css",
     "static/js/main.8f688c38.js"
   ]
 }
